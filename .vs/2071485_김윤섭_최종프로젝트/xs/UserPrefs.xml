@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{B95319F2-C74B-3381-B8F0-8B781CACA6E7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RotatingItem.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RabbitController.cs" Line="97" Column="54" />
+      <File FileName="Assets/Scripts/CameraFollow.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/BearController.cs" Line="33" Column="45" />
+      <File FileName="Assets/Scripts/RotatingItem.cs" Line="14" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2071485_김윤섭_최종프로젝트" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="RotatingItem.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="54ee407b-a86c-4c0d-8adf-5d5f04db2019" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
