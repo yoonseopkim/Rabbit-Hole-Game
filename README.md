@@ -5,7 +5,7 @@
 
 밑에 사진을 클릭하면 이동합니다. 
 
-[![Video Label](http://img.youtube.com/vi/9mupKejR5XA/0.jpg)]([https://youtu.be/9mupKejR5XA](https://www.youtube.com/watch?v=qVF-vGn16hw))
+[![Video Label](http://img.youtube.com/vi/9mupKejR5XA/0.jpg)](https://www.youtube.com/watch?v=qVF-vGn16hw)
 
 ![image](https://github.com/yoonseopkim/Rabbit-Hole-Game/assets/123044351/126babcb-dc05-4d22-87fc-9c15af0e1571)
 ![image](https://github.com/yoonseopkim/Rabbit-Hole-Game/assets/123044351/6a91e132-abaa-49b3-a284-32ae1715475f)
